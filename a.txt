@@ -1,0 +1,5 @@
+name   :Ajith A
+address:Andikkora(h),pothanur,polppakkara(po),edappal
+sex    :male
+college:malabar college
+course :bca
